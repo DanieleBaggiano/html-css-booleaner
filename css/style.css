@@ -45,6 +45,7 @@ thead {
     background-color: lightseagreen;
 }
 
+/* tabella */
 .prima-riga {
     background-color: aqua;
 }
@@ -59,4 +60,19 @@ thead {
 
 table {
     border-collapse: collapse;
+}
+
+.prima-colonna {
+    text-align: center;
+    width: 25%;
+}
+
+.seconda-colonna {
+    text-align: center;
+    width: 25%;
+}
+
+.terza-colonna {
+    text-align: center;
+    width: 50%;
 }
