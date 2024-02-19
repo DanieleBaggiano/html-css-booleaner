@@ -19,13 +19,44 @@ h1 {
 /* sottotitolo */
 .booleaner {
     color: lightgrey;
+    font-size: 10px;
 }
 
-span {
+.aqua {
     color: aqua;
 }
 
 /* descrizione foto */
 .descrizione {
     font-family: italic;
+    font-size: 10px;
+}
+
+span {
+    background-color: yellow;
+}
+
+/* main */
+ul {
+    padding-left: 15px;
+}
+
+thead {
+    background-color: lightseagreen;
+}
+
+.prima-riga {
+    background-color: aqua;
+}
+
+.seconda-riga {
+    background-color: aquamarine;
+}
+
+.terza-riga {
+    background-color: aqua;
+}
+
+table {
+    border-collapse: collapse;
 }
