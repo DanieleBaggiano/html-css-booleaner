@@ -1,0 +1,31 @@
+/* header */
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+    background-color: rgb(0, 115, 255);
+}
+
+/* logo */
+.logo {
+   width: 200px;
+   height: 100px;
+}
+
+/* titolo */
+h1 {
+    margin-bottom: 0;
+}
+
+/* sottotitolo */
+.booleaner {
+    color: lightgrey;
+}
+
+span {
+    color: aqua;
+}
+
+/* descrizione foto */
+.descrizione {
+    font-family: italic;
+}
